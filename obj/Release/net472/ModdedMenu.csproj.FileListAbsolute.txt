@@ -1,0 +1,12 @@
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/bin/Release/net472/ModdedMenu.dll
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/bin/Release/net472/ModdedMenu.pdb
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/bin/Release/net472/Shared.dll
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/bin/Release/net472/Shared.pdb
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/obj/Release/net472/ModdedMenu.csproj.AssemblyReference.cache
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/obj/Release/net472/ModdedMenu.GeneratedMSBuildEditorConfig.editorconfig
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/obj/Release/net472/ModdedMenu.AssemblyInfoInputs.cache
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/obj/Release/net472/ModdedMenu.AssemblyInfo.cs
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/obj/Release/net472/ModdedMenu.csproj.CoreCompileInputs.cache
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/obj/Release/net472/ModdedMenu.csproj.Up2Date
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/obj/Release/net472/ModdedMenu.dll
+/home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/obj/Release/net472/ModdedMenu.pdb

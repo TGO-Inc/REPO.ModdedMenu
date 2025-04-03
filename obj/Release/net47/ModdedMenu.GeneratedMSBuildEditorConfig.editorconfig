@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = ModdedMenu
+build_property.ProjectDir = /home/theguy920/RiderProjects/REPO_MenuManager/ModdedMenu/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
