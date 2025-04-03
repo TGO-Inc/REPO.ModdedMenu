@@ -1,5 +1,0 @@
-/home/theguy920/RiderProjects/REPO_MenuManager/REPO.MenuManager/obj/Release/netstandard2.1/REPO.MenuManager.csproj.AssemblyReference.cache
-/home/theguy920/RiderProjects/REPO_MenuManager/REPO.MenuManager/obj/Release/netstandard2.1/REPO.MenuManager.GeneratedMSBuildEditorConfig.editorconfig
-/home/theguy920/RiderProjects/REPO_MenuManager/REPO.MenuManager/obj/Release/netstandard2.1/REPO.MenuManager.AssemblyInfoInputs.cache
-/home/theguy920/RiderProjects/REPO_MenuManager/REPO.MenuManager/obj/Release/netstandard2.1/REPO.MenuManager.AssemblyInfo.cs
-/home/theguy920/RiderProjects/REPO_MenuManager/REPO.MenuManager/obj/Release/netstandard2.1/REPO.MenuManager.csproj.CoreCompileInputs.cache
